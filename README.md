@@ -1,2 +1,4 @@
+Object Detials 
+simple android  app that returns the details(size and color)  of an objects form the  captured image 
 
-simple app that returns the object details(size and color) form the  captured image 
+
